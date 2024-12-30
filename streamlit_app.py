@@ -2,8 +2,6 @@ import streamlit as st
 import pickle
 import numpy as np
 import os
-from sklearn.ensemble import ExtraTreesClassifier
-
 
 # Function to load the model
 def load_model(file_paths):
