@@ -18,9 +18,9 @@ def load_model(file_paths):
 
 # Correct file paths
 file_paths = {
-    "Parkinson's Disease": r"C:\Users\DELL\Downloads\parkinsons.pkl",
-    "Liver Disease": r"C:\Users\DELL\Downloads\liver.pkl",
-    "Kidney Disease": r"C:\Users\DELL\Downloads\kidney.pkl",
+    "Parkinson's Disease": r"parkinsons.pkl",
+    "Liver Disease": r"liver.pkl",
+    "Kidney Disease": r"kidney.pkl",
 }
 
 # Sidebar for model selection
