@@ -120,7 +120,7 @@ elif selected_model == "Kidney Disease":
 elif selected_model == "Liver Disease":
     st.title("Liver Disease Prediction")
     model_path = file_paths["Liver Disease"]
-    model, error = load_model(model_path)
+    model, error = load_model(model_paths)
 
     if error:
         st.error(error)
