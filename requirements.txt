@@ -1,7 +1,5 @@
 streamlit
-pickle
 pandas
 numpy
 os  
 xgboost
-ExtraTreesClassifier
