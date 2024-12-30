@@ -1,5 +1,7 @@
 streamlit
+pickle
 pandas
 numpy
-pg8000
-altair
+os  
+xgboost
+ExtraTreesClassifier
